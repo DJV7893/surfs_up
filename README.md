@@ -17,7 +17,7 @@
   From our two statical analysis tables we produced from temperature data in the months of June and December we can observe the following:
 
   * The temperature data for both the months of June and December has a symmetrical distribution of data as the mean and median are almost identical. For       June the mean is 74.94 Fahrenheit and the median is 75.00 Fahrenheit and for December the mean is 71.04 Fahrenheit and the median is 71.00 Fahrenheit.
-  * The month of June had almost 200 more temperature observations than the month of December, 1,700 compared to 1,517.
+  * The month of June had almost 200 more temperature observations than the month of December; 1,700 compared to 1,517.
   * There aren’t many if not any outliers that are skewing the data for both the months of June and December as most data points are within 3 standard         deviations of the mean. The max values for both June and December, 85.0 and 83.0 Fahrenheit, are right outside of 3 standard deviations for both data       sets, 84.72 and 82.29 Fahrenheit.
 
 June Temps                
