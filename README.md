@@ -33,8 +33,6 @@ December Temps
 ---
 ### Recommendations
 
- There aren’t many if not any outliers that are skewing the data for both the months of June and December as most data points are within 3 standard deviations of the mean. The max values for both June and December, 85.0 and 83.0 Fahrenheit, are right outside of 3 standard deviations for both data sets, 84.72 and 82.29 Fahrenheit.
-
   The statistical analysis for the months of June and December supports our decision to locate the surf shop in Oahu. As we can see the change in temperature from the middle to the end of the year is relatively minimal as the mean temperature only dipped slightly from 74.94 to 71.04 Fahrenheit. Similarly, we can see that the temperature on a day-to-day basis remains in a very comfortable range as 95 percent of the temperature observations or 3 standard deviations for both months are; for June 65.16 to 84.72 Fahrenheit and for December 59.79 to 82.29 Fahrenheit. In order to validate our decision to locate our surf shop in Oahu we should conduct another query for precipitation levels in order to ensure that it is not raining to such an extent that customers will not show up year-round. Similarly, we should conduct another query for average wind speeds to help us determine the quality of surfing and the optimal hours of operation for the surf shop.
 
 ---
